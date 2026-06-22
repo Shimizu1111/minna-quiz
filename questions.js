@@ -83,4 +83,36 @@ const QUESTIONS = [
     choices: ["季語", "敬語", "熟語", "対義語"],
     answer: 0,
   },
+
+  // ---------------- 英語 ----------------
+  {
+    category: "英語",
+    q: "「ありがとう」を英語で言うと？",
+    choices: ["Sorry", "Hello", "Thank you", "Goodbye"],
+    answer: 2,
+  },
+  {
+    category: "英語",
+    q: "“apple” の意味は？",
+    choices: ["みかん", "りんご", "ぶどう", "バナナ"],
+    answer: 1,
+  },
+  {
+    category: "英語",
+    q: "「青色」を英語で言うと？",
+    choices: ["red", "green", "yellow", "blue"],
+    answer: 3,
+  },
+  {
+    category: "英語",
+    q: "数字の「8」を英語で言うと？",
+    choices: ["six", "eight", "nine", "seven"],
+    answer: 1,
+  },
+  {
+    category: "英語",
+    q: "「月曜日」を英語で言うと？",
+    choices: ["Monday", "Sunday", "Friday", "Tuesday"],
+    answer: 0,
+  },
 ];
